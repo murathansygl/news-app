@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv-news/
 
 # Spyder project settings
 .spyderproject
